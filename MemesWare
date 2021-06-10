@@ -166,9 +166,9 @@ local library = {
     },
     theme = {
         buttons = Color3.fromRGB(255, 200, 20), -- toggle, sliders colors
-        text = Color3.fromRGB(235, 205, 235),
+        text = Color3.fromRGB(235, 20, 235),
         textboxtext = Color3.fromRGB(145, 145, 145),
-        main = Color3.fromRGB(255, 30, 30),
+        main = Color3.fromRGB(25, 255, 30),
         outline = Color3.fromRGB(60, 60, 60),
         tabholder = Color3.fromRGB(35, 35, 35),
         tabbutton = Color3.fromRGB(30, 30, 30),
